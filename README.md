@@ -65,7 +65,6 @@ Je transforme les données brutes en **insights clairs et actionnables**, avec u
 
 ## 🔗 Liens
 💼 Portfolio : https://aligoudjil07.github.io/ 
-📎 Portfolio GitHub (profil README) : https://github.com/aligoudjil07/Analyse_et_pr-diction_des_co-ts_d-assurance_m-dicale  
 📧 Email : aligoudjil07@gmail.com  
 
 ---
