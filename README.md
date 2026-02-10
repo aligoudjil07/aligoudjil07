@@ -64,8 +64,8 @@ Je transforme les données brutes en **insights clairs et actionnables**, avec u
 ---
 
 ## 🔗 Liens
-💼 Portfolio : https://github.com/aligoudjil07  
-📎 Portfolio GitHub (profil README) : https://github.com/aligoudjil07/aligoudjil07  
+💼 Portfolio : http://127.0.0.1:5500/index.html  
+📎 Portfolio GitHub (profil README) : https://github.com/aligoudjil07/  
 📧 Email : aligoudjil07@gmail.com  
 
 ---
