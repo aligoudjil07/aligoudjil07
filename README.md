@@ -32,7 +32,7 @@ Je transforme les données brutes en **insights clairs et actionnables**, avec u
 - Modèle de régression linéaire multiple (**R² ≈ 0.75**)  
 - Interprétation des coefficients et recommandations métiers  
 
-🔗 Repo : https://github.com/aligoudjil07/insurance-cost-prediction *(à créer)*  
+🔗 Repo : https://github.com/aligoudjil07/Analyse_et_pr-diction_des_co-ts_d-assurance_m-dicale
 
 ---
 
